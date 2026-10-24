@@ -1,0 +1,12 @@
+{
+  "name": "Android Mastery Roadmap",
+  "short_name": "Android Mastery",
+  "description": "A free practical roadmap for Android internals, ADB, Kotlin, root, AOSP and kernel development.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d17",
+  "theme_color": "#080d17",
+  "orientation": "portrait-primary",
+  "icons": []
+}
